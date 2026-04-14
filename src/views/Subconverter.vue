@@ -349,15 +349,9 @@ export default {
         },
         customBackend: {
           "rameses-自托管后端": "https://api.earendal.win",
-          "CM提供-应急备用后端": "https://subapi.fxxk.dedyn.io",
-          "肥羊提供-增强型后端": "https://url.v1.mk",
-          "肥羊提供-备用后端": "https://api.v1.mk",
         },
         backendOptions: [
           { value: "https://api.earendal.win" },
-          { value: "https://subapi.fxxk.dedyn.io" },
-          { value: "https://url.v1.mk" },
-          { value: "https://api.v1.mk" },
         ],
         remoteConfig: [
           {
