@@ -351,7 +351,7 @@ export default {
           "rameses-自托管后端": "https://api.earendal.win",
         },
         backendOptions: [
-          { value: "https://api.earendal.win" },
+          { value: "https://subapi.earendal.win" },
         ],
         remoteConfig: [
           {
