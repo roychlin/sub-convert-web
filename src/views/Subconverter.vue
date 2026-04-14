@@ -348,7 +348,7 @@ export default {
           "dlj.tf": "https://dlj.tf/short",
         },
         customBackend: {
-          "rameses-自托管后端": "https://api.earendal.win",
+          "rameses-自托管后端": "https://subapi.earendal.win",
         },
         backendOptions: [
           { value: "https://subapi.earendal.win" },
